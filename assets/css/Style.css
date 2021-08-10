@@ -5,7 +5,7 @@
 /* set page background color and set fonts */
 body {
     color: #39a6b2;
-    font0family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 /* apply styles to <header> */
 header {
@@ -34,4 +34,9 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
 }
